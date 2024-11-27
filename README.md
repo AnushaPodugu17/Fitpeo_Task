@@ -25,6 +25,7 @@ This script automates the testing of the Fitpeo Revenue Calculator functionality
      7.Validating  Total Recurring Reimbursement value is '$75600'
        --NOTE: Here when "Total individual per month" is '820' then Total Recurring Reimbursement value is '$110700.'
                and when  "Total individual per month" is '560' then Total Recurring Reimbursement value is '$75600.'
+               So I'm validating $75600 in "task_fitpeo_test.py". I have also written the code for validating $110700 in "task_fitpeo_test2.py".
      8.Closes the browser.
 
 ------ Tests--------
